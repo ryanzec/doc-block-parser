@@ -1,0 +1,39 @@
+{
+  "name": "doc-block-parser",
+  "version": "0.1.0",
+  "description": "A simple doc block parser",
+  "keywords": [
+    "doc",
+    "docs",
+    "documentation",
+    "parser",
+    "docblock"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanzec/doc-block-parser"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanzec/doc-block-parser/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Ryan Zec",
+    "email": "code@ryanzec.com",
+    "url": "http://www.ryanzec.com"
+  },
+  "dependencies": {
+    "lodash": "2.4.1",
+    "glob-array": "0.1.1",
+    "chalk": "0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "1.18.2",
+    "chai": "1.9.1",
+    "sinon": "1.9.1"
+  },
+  "engines": {
+    "node": ">=0.10.25"
+  },
+  "main": "lib/index.js"
+}
