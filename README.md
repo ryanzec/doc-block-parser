@@ -1,7 +1,1 @@
-# Doc Block Parser
-
-A simple doc block parser written in JavaScript.  More documentation to come.
-
-# License
-
-MIT
+I am no longer maintaining this project.
